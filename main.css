@@ -3,8 +3,35 @@ body {
 	margin: 0;
 	text-align: center;
 	width: 100%;
+	background-image: url("https://images.pexels.com/photos/714059/pexels-photo-714059.jpeg?w=940&h=650&auto=compress&cs=tinysrgb");
+	background-size: cover;
+	color: white;
 }
 
-.class {
-	font-color: red;
+ul {
+  width: 100%;
+  display: table;
+  table-layout: fixed;
 }
+
+ul li {
+  display: table-cell;
+  width: auto;
+  text-align: center;
+}
+
+.nav {
+	font-size: 15px;
+	color: white;
+	display: table;
+	width: 100%;
+	white-space: nowrap;
+}
+
+.nav {
+	background-image: url("https://s3.amazonaws.com/codecademy-content/projects/make-a-website/lesson-2/bg.jpg");
+	background-size: cover;
+}
+
+.nav{
+	
