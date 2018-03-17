@@ -1,0 +1,100 @@
+@import url('https://fonts.googleapis.com/css?family=Karma');
+
+.grid {
+  height: auto;
+  width: auto;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  grid-template-rows: 50px 100px 350px 50px;
+  grid-row-gap: 10px;
+  grid-column-gap: 15px;
+}
+
+.widthSet{
+  max-width: 300px;
+}
+
+/*Navigation BAR*/
+
+.a {
+  grid-column-start: 1;
+  grid-column-end: span 4;
+  grid-row-start: 1;
+  grid-row-end: 2;
+  background-color: white;
+  color: black;
+  box-shadow: 5px 5px 5px;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0px;
+  padding: 0px;
+}
+
+li {
+  float: left;
+  border-right: 10px solid white;
+}
+
+li a:hover{
+  color: darkgray;
+}
+
+a {
+  color: black;
+  display: block;
+  padding: 8px;
+  background-color: white;
+  font-family: 'Karma';
+}
+
+/*Title Bar-Screen*/
+
+.b {
+  grid-column-start: 1;
+  grid-column-end: span 4;
+  grid-row-start: 2;
+  grid-row-end: 3;
+  background-image: url("banner.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-family: 'Karma';
+  text-align: center
+}
+
+.c {
+  font-family: 'Karma';
+  padding-left: 5px;
+  border-radius: 5px;
+  border: 2px black solid;
+  text-align: left;
+  box-shadow: 5px 5px 5px;
+}
+
+.d {
+  font-family: 'Karma';
+  padding-left: 5px;
+  border-radius: 5px;
+  border: 2px black solid;
+  text-align: left;
+  box-shadow: 5px 5px 5px;
+}
+
+.e {
+  font-family: 'Karma';
+  padding-left: 5px;
+  border-radius: 5px;
+  border: 2px black solid;
+  text-align: left;
+  box-shadow: 5px 5px 5px;
+}
+
+.f {
+  font-family: 'Karma';
+  padding-left: 5px;
+  border-radius: 5px;
+  border: 2px black solid;
+  text-align: left;
+  box-shadow: 5px 5px 5px;
+}
