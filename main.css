@@ -28,7 +28,8 @@ display:flex;
 	text-align: left;
 	padding: 20px;
 	box-shadow: 5px 5px 115px;
-	border-radius: 5px
+	border-radius: 5px;
+	color: black;
 }
 	
 ul {
@@ -78,6 +79,6 @@ ul logo{
 
 
 #footer{
-color: black
+color: ghostwhite;
 }
 	
