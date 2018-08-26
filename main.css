@@ -55,8 +55,8 @@ ul logo{
 }
 
 .logo{
-	height: auto;
-	width: auto;
+	height: 120px;
+	width: 120px;
 	max-height: 125px;
 	max-width: 125px;
 	position:fixed;
