@@ -75,7 +75,7 @@ body {
     width: 30px;
     text-align: center;
 	text-decoration: none;
-	border-radius: 25px;
+	border-radius: 50%;
 }
 
 /* Add a hover effect if you want */
