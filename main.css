@@ -70,6 +70,7 @@ body {
 
 /* Style all font awesome icons */
 .fa {
+	display: inline;
     padding: 20px;
     font-size: 30px;
     width: 15px;
