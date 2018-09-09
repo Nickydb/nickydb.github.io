@@ -8,10 +8,13 @@ body {
   
   /* Header/Blog Title */
   .header {
-	padding: 30px;
-	font-size: 40px;
-	text-align: center;
+	padding: 1px;
+	padding-left: 20px;
+	font-size: 33px;
+	text-align: left;
 	background: white;
+	border-radius: 25px;
+	opacity: 0.8;
   }
   
   /* Create two unequal columns that floats next to each other */
