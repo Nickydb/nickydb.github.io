@@ -68,14 +68,14 @@ body {
 	}
   }
 
- /* Social Media Buttons */
-  .fa {
+/* Style all font awesome icons */
+.fa {
     padding: 20px;
     font-size: 30px;
-    width: 30px;
+    width: 50px;
     text-align: center;
-    text-decoration: none;
-    border-radius: 50%;
+	text-decoration: none;
+	border-radius: 25px;
 }
 
 /* Add a hover effect if you want */
@@ -84,14 +84,6 @@ body {
 }
 
 /* Set a specific color for each brand */
-
-/*Instagram*/
-.fa-instagram {
-	background: #3B5998	;
-	color: grey;
-	padding-bottom: 5px;
-}
-
 
 /* Facebook */
 .fa-facebook {
