@@ -7,7 +7,7 @@ body {
 	background-image: url("https://previews.123rf.com/images/kornienko/kornienko1608/kornienko160800046/63071016-checkered-tablecloth-on-wooden-table-background.jpg");
 	*/
 	
-	background-repeat: no-repeat;
+	
 	}
   
   /* Header/Blog Title */
@@ -37,7 +37,7 @@ body {
   
   /* Fake image */
   .fakeimg {
-	background-color: #f1f1f1;
+	background-color: white;
 	width: 75%;
 	padding: 20px;
   }
