@@ -22,8 +22,8 @@ body {
   /* Right column */
   .rightcolumn {
 	float: left;
-	width: 24%;
-	padding-left: 5px;
+	width: 23%;
+	padding-left: 10px;
   }
   
   /* Fake image */
