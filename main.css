@@ -85,6 +85,11 @@ body {
 
 /* Set a specific color for each brand */
 
+.fa-instagram {
+    background: black;
+    color: red;
+}
+
 /* Facebook */
 .fa-facebook {
     background: #3B5998;
